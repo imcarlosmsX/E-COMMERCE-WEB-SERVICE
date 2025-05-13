@@ -95,7 +95,38 @@ const products_plp = [
             { feature: "Material", value: "Paja" }
         ],
         discount: 20
-    }
-
+    },
+    {
+        id: 93,
+        optionId: 2,
+        image: 'https://i.ibb.co/Z1W08tMk/sombrero-vueltiao-quinciano-tricolor.png',
+        name: 'Sombrero Vueltiao Tricolor',
+        rating: 4,
+        description: 'Sombrero Vueltiao 100% Hecha a Mano',
+        normalPrice: 350000,
+        discountedPrice: 280000,
+        specifications: [
+            { feature: "Tamaño", value: "Adulto" },
+            { feature: "Color", value: "Tricolor" },
+            { feature: "Material", value: "Paja" }
+        ],
+        discount: 20
+    },
+    {
+        id: 94,
+        optionId: 2,
+        image: 'https://i.ibb.co/MxfyrgTK/Sombrero-wayuu-5-jpg.png',
+        name: 'Sombrero Wayuu',
+        rating: 4,
+        description: 'Sombrero Wayuu 100% Hecha a Mano',
+        normalPrice: 50000,
+        discountedPrice: 30000,
+        specifications: [
+            { feature: "Tamaño", value: "Adulto" },
+            { feature: "Color", value: "Original" },
+            { feature: "Material", value: "Paja" }
+        ],
+        discount: 20
+    },
 ];
 module.exports = products_plp;
