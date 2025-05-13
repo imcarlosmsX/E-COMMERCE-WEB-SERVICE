@@ -108,6 +108,15 @@ const featuredProducts = [
     discountedPrice: 1599900,
     discount: 44,
     pdpLink: url
+  },
+  {
+    id: 99,
+    name: 'Mochila Wayuu Marron',
+    image: 'https://i.ibb.co/B5nkbZB6/image.png',
+    normalPrice: 200000,
+    discountedPrice: 105000,
+    discount: 10,
+    pdpLink: url
   }
 ];
 module.exports =  featuredProducts;
