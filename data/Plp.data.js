@@ -179,16 +179,16 @@ const products_plp = [
     {
         id: 98,
         optionId: 1,
-        image: 'https://i.ibb.co/7W0Y2J4D/35049-venta-ig-labs-album5-04-2-n.png',
-        name: 'Mochila Wayuu Rosa',
+        image: 'https://i.ibb.co/CpDMdV0j/02-03-005-B-vista1-4.png',
+        name: 'Sombrero Aguadeño en palma de iraca',
         rating: 4,
-        description: 'Mochila Wayuu 100% Hecha a Mano',
-        normalPrice: 100000,
-        discountedPrice: 80000,
+        description: 'Sombrero Aguadeño en palma de iraca 100% Hecha a Mano',
+        normalPrice: 200000,
+        discountedPrice: 187000,
         specifications: [
             { feature: "Tamaño", value: "Grande" },
-            { feature: "Color", value: "Rosa" },
-            { feature: "Material", value: "Algodón" }
+            { feature: "Color", value: "Original" },
+            { feature: "Material", value: "Palma de iraca" }
         ],
         discount: 20
     }
