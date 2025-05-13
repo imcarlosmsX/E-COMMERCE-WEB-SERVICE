@@ -128,5 +128,69 @@ const products_plp = [
         ],
         discount: 20
     },
+    {
+        id: 95,
+        optionId: 3,
+        image: 'https://i.ibb.co/gL8HbnSJ/HAMACA-WAYUU-KENASU-AZUL-FLORES-PRINCIPAL.png',
+        name: 'Chinchorro Wayuu',
+        rating: 4,
+        description: 'Chinchorro Wayuu 100% Hecha a Mano',
+        normalPrice: 550000,
+        discountedPrice: 300000,
+        specifications: [
+            { feature: "Tamaño", value: "Adulto" },
+            { feature: "Color", value: "Multiple" },
+            { feature: "Material", value: "Algodon" }
+        ],
+        discount: 20
+    },
+    {
+        id: 96,
+        optionId: 3,
+        image: 'https://i.ibb.co/LDrKpjVb/3-6e08b1b5-6e49-4fe9-a488-2fb83d7f73b6.png',
+        name: 'Hamaca Tradicional Colombiana',
+        rating: 4,
+        description: 'Hamaca ',
+        normalPrice: 150000,
+        discountedPrice: 99000,
+        specifications: [
+            { feature: "Tamaño", value: "Adulto" },
+            { feature: "Color", value: "Multiple" },
+            { feature: "Material", value: "Algodon" }
+        ],
+        discount: 20
+    },
+    {
+        id: 97,
+        optionId: 1,
+        image: 'https://i.ibb.co/SZzn4YK/Whats-App-Image-2023-09-25-at-12-40-32-PM-430x430-1.png',
+        name: 'Mochila Arhuaca',
+        rating: 4,
+        description: 'Mochila Arhuaca 100% Hecha a Mano Original',
+        normalPrice: 500000,
+        discountedPrice: 350000,
+        specifications: [
+            { feature: "Tamaño", value: "Grande" },
+            { feature: "Color", value: "Original" },
+            { feature: "Material", value: "Lana de Oveja" }
+        ],
+        discount: 20
+    },
+    {
+        id: 98,
+        optionId: 1,
+        image: 'https://i.ibb.co/7W0Y2J4D/35049-venta-ig-labs-album5-04-2-n.png',
+        name: 'Mochila Wayuu Rosa',
+        rating: 4,
+        description: 'Mochila Wayuu 100% Hecha a Mano',
+        normalPrice: 100000,
+        discountedPrice: 80000,
+        specifications: [
+            { feature: "Tamaño", value: "Grande" },
+            { feature: "Color", value: "Rosa" },
+            { feature: "Material", value: "Algodón" }
+        ],
+        discount: 20
+    }
 ];
 module.exports = products_plp;
