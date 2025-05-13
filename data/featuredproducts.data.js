@@ -4,7 +4,7 @@ const featuredProducts = [
   {
     id: 87,
     name: 'Mochila Wayuu Marron',
-    image: 'https://i.ibb.co/B5nkbZB6/image.png',
+    image: 'https://i.ibb.co/M5M1hVWd/mochila.png',
     normalPrice: 200000,
     discountedPrice: 105000,
     discount: 10,

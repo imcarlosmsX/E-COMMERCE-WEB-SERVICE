@@ -1271,7 +1271,7 @@ const products_plp = [
         {
         id: 87,
         optionId: 1,
-        image: 'https://i.ibb.co/B5nkbZB6/image.png',
+        image: 'https://i.ibb.co/M5M1hVWd/mochila.png',
         name: 'Mochila Wayuu',
         rating: 3,
         description: 'Mochila Wayuu 100% Hecha a Mano',
