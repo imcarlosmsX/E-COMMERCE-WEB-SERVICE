@@ -1266,6 +1266,22 @@ const products = [
             { feature: "Type", value: "Recipiente para Jabón" },
             { feature: "Feature", value: "Con Rollo Quita Pelusas" }
         ]
-    }    
+    },
+            {
+        id: 99,
+        optionId: 1,
+        image: 'https://i.ibb.co/B5nkbZB6/image.png',
+        name: 'Mochila Wayuu',
+        rating: 3,
+        description: 'Marron',
+        normalPrice: 200000,
+        discountedPrice: 180000,
+        specifications: [
+            { feature: "BTU", value: "12000" },
+            { feature: "Type", value: "Split Inverter" },
+            { feature: "Voltage", value: "220V" },
+            { feature: "Color", value: "Marron" }
+        ],
+    }
 ];
 module.exports = products;
