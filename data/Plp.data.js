@@ -1458,6 +1458,23 @@ const products_plp = [
             { feature: "Color", value: "Blanco" }
         ],
         discount: 44
+    },
+        {
+        id: 99,
+        optionId: 1,
+        image: 'https://i.ibb.co/B5nkbZB6/image.png',
+        name: 'Mochila Wayuu',
+        rating: 3,
+        description: 'Marron',
+        normalPrice: 200000,
+        discountedPrice: 180000,
+        specifications: [
+            { feature: "BTU", value: "12000" },
+            { feature: "Type", value: "Split Inverter" },
+            { feature: "Voltage", value: "220V" },
+            { feature: "Color", value: "Marron" }
+        ],
+        discount: 10
     }
 ];
 module.exports = products_plp;
