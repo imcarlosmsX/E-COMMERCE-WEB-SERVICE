@@ -1,5 +1,5 @@
 const products_plp = [
-        {
+    {
         id: 87,
         optionId: 1,
         image: 'https://i.ibb.co/M5M1hVWd/mochila.png',
@@ -13,7 +13,7 @@ const products_plp = [
             { feature: "Color", value: "Marron" },
             { feature: "Material", value: "Algodón" }
         ],
-        discount: 10
+        discount: 10 // Correcto
     },
     {
         id: 88,
@@ -29,9 +29,8 @@ const products_plp = [
             { feature: "Color", value: "Azul" },
             { feature: "Material", value: "Algodón" }
         ],
-        discount: 10
-    }
-    ,
+        discount: 10 // Correcto
+    },
     {
         id: 89,
         optionId: 1,
@@ -46,7 +45,7 @@ const products_plp = [
             { feature: "Color", value: "Verde" },
             { feature: "Material", value: "Algodón" }
         ],
-        discount: 10
+        discount: 10 // Correcto
     },
     {
         id: 90,
@@ -62,7 +61,7 @@ const products_plp = [
             { feature: "Color", value: "Amarillo" },
             { feature: "Material", value: "Algodón" }
         ],
-        discount: 10
+        discount: 10 // Correcto
     },
     {
         id: 91,
@@ -78,7 +77,7 @@ const products_plp = [
             { feature: "Color", value: "Rosa" },
             { feature: "Material", value: "Algodón" }
         ],
-        discount: 20
+        discount: 20 // Correcto
     },
     {
         id: 92,
@@ -94,7 +93,7 @@ const products_plp = [
             { feature: "Color", value: "Original" },
             { feature: "Material", value: "Paja" }
         ],
-        discount: 20
+        discount: 20 // Correcto
     },
     {
         id: 93,
@@ -110,7 +109,7 @@ const products_plp = [
             { feature: "Color", value: "Tricolor" },
             { feature: "Material", value: "Paja" }
         ],
-        discount: 20
+        discount: 20 // Correcto
     },
     {
         id: 94,
@@ -126,7 +125,7 @@ const products_plp = [
             { feature: "Color", value: "Original" },
             { feature: "Material", value: "Paja" }
         ],
-        discount: 20
+        discount: 40 // Corregido
     },
     {
         id: 95,
@@ -142,7 +141,7 @@ const products_plp = [
             { feature: "Color", value: "Multiple" },
             { feature: "Material", value: "Algodon" }
         ],
-        discount: 20
+        discount: 45 // Corregido
     },
     {
         id: 96,
@@ -158,7 +157,7 @@ const products_plp = [
             { feature: "Color", value: "Multiple" },
             { feature: "Material", value: "Algodon" }
         ],
-        discount: 20
+        discount: 34 // Corregido
     },
     {
         id: 97,
@@ -174,7 +173,7 @@ const products_plp = [
             { feature: "Color", value: "Original" },
             { feature: "Material", value: "Lana de Oveja" }
         ],
-        discount: 20
+        discount: 30 // Corregido
     },
     {
         id: 98,
@@ -190,7 +189,7 @@ const products_plp = [
             { feature: "Color", value: "Original" },
             { feature: "Material", value: "Palma de iraca" }
         ],
-        discount: 20
+        discount: 7 // Corregido
     }
 ];
 module.exports = products_plp;
