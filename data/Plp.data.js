@@ -195,7 +195,7 @@ const products_plp = [
         ],
         discount: 30,
         history: 'La mochila Arhuaca es una pieza emblemática de los indígenas Arhuacos de la Sierra Nevada de Santa Marta. Hecha con lana virgen y tejida por mujeres de la comunidad, cada símbolo en la mochila tiene un significado espiritual y cosmológico. Representa la visión del mundo Arhuaco, donde todo está conectado: el hombre, la naturaleza y el universo. Más que un accesorio, es una declaración de identidad y resistencia cultural.',
-        demoVideo: 'https://www.youtube.com/shorts/UNZApjdvYYg'
+        demoVideo: 'https://www.youtube.com/watch?v=guQLLWNd2M8&ab_channel=LosOficios%2Cunviajeporlossaberesancestrales'
     },
     {
     id: 98,
