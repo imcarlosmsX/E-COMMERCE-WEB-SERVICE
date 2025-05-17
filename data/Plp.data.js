@@ -15,7 +15,7 @@ const products_plp = [
         ],
         discount: 10,
         history: 'La mochila Wayuu es un símbolo de la cultura indígena Wayuu, tejida a mano con técnicas ancestrales que se transmiten de generación en generación. Cada diseño cuenta una historia única, reflejando la conexión espiritual y cultural de los Wayuu con su entorno. Estas mochilas no solo son objetos utilitarios, sino también expresiones de identidad y resistencia cultural. El proceso de tejido puede tomar semanas, y cada figura o color usado tiene un significado específico que comunica parte del legado Wayuu.',
-        demoVideo: 'https://www.youtube.com/watch?v=example1'
+        demoVideo: 'https://www.youtube.com/watch?v=MSqh3NggnU0&ab_channel=DavidAr%C3%A9valo'
     },
     {
         id: 88,
@@ -33,7 +33,7 @@ const products_plp = [
         ],
         discount: 10,
         history: 'Esta mochila azul es una variación moderna de las tradicionales mochilas Wayuu. Los colores vibrantes y los patrones geométricos representan la naturaleza y las historias de la comunidad Wayuu. El color azul evoca el mar que rodea La Guajira, tierra natal del pueblo Wayuu. Es un homenaje al equilibrio entre tradición y modernidad, y una forma de compartir con el mundo la riqueza cultural de esta etnia indígena colombiana.',
-        demoVideo: 'https://www.youtube.com/watch?v=example2'
+        demoVideo: 'https://www.youtube.com/watch?v=MSqh3NggnU0&ab_channel=DavidAr%C3%A9valo'
     },
     {
         id: 89,
@@ -51,7 +51,7 @@ const products_plp = [
         ],
         discount: 10,
         history: 'La mochila Wayuu verde simboliza la conexión con la naturaleza. Cada pieza es tejida con dedicación y refleja la armonía entre los Wayuu y su entorno. El verde representa la vegetación de los oasis en medio del árido desierto guajiro. Esta mochila es una celebración de la vida, la esperanza y el respeto por la tierra, elementos fundamentales en la cosmovisión Wayuu.',
-        demoVideo: 'https://www.youtube.com/watch?v=example3'
+        demoVideo: 'https://www.youtube.com/watch?v=MSqh3NggnU0&ab_channel=DavidAr%C3%A9valo'
     },
     {
         id: 90,
@@ -69,7 +69,7 @@ const products_plp = [
         ],
         discount: 10,
         history: 'La mochila Wayuu amarilla destaca por su diseño alegre y lleno de vida. Representa la luz del sol y la energía que impulsa a la comunidad Wayuu. Esta tonalidad es símbolo de optimismo y creatividad, y se asocia con el despertar de un nuevo día en las tierras del norte de Colombia. Su elaboración demuestra la habilidad de las artesanas Wayuu para fusionar simbolismo ancestral con diseño contemporáneo.',
-        demoVideo: 'https://www.youtube.com/watch?v=example4'
+        demoVideo: 'https://www.youtube.com/watch?v=MSqh3NggnU0&ab_channel=DavidAr%C3%A9valo'
     },
     {
         id: 91,
@@ -87,7 +87,7 @@ const products_plp = [
         ],
         discount: 20,
         history: 'La mochila Wayuu rosa es un homenaje a la creatividad y la innovación de los artesanos Wayuu. Su diseño único combina tradición y modernidad. El uso del rosa es una reinterpretación contemporánea que busca conectar con nuevas generaciones, manteniendo viva la esencia del tejido manual. Esta pieza refleja la versatilidad cultural y la capacidad de adaptación de los Wayuu a un mundo globalizado.',
-        demoVideo: 'https://www.youtube.com/watch?v=example5'
+        demoVideo: 'https://www.youtube.com/watch?v=MSqh3NggnU0&ab_channel=DavidAr%C3%A9valo'
     },
     {
         id: 92,
@@ -105,7 +105,7 @@ const products_plp = [
         ],
         discount: 20,
         history: 'El sombrero Vueltiao es un ícono de la cultura colombiana. Hecho a mano con paja de caña flecha, su diseño en espiral representa el movimiento de la danza y la vida cotidiana. Declarado símbolo cultural de la nación, es usado en festividades, eventos oficiales y como muestra de orgullo nacional. Cada línea y cada curva en el sombrero lleva la historia del pueblo Zenú, quienes lo han fabricado por siglos con destreza inigualable.',
-        demoVideo: 'https://www.youtube.com/watch?v=example6'
+        demoVideo: 'https://www.youtube.com/watch?v=pPdYef2xalE&ab_channel=To%C3%B1oA3Tabacos'
     },
     {
         id: 93,
@@ -123,7 +123,7 @@ const products_plp = [
         ],
         discount: 20,
         history: 'El sombrero Vueltiao tricolor combina colores vibrantes que representan la diversidad cultural de Colombia. Inspirado en los colores de la bandera nacional, este sombrero celebra la unidad y la multiculturalidad del país. Es usado tanto en actos culturales como políticos y se ha convertido en un emblema de orgullo patrio. Cada pieza es una muestra de artesanía minuciosa que requiere semanas de trabajo.',
-        demoVideo: 'https://www.youtube.com/watch?v=example7'
+        demoVideo: 'https://www.youtube.com/watch?v=pPdYef2xalE&ab_channel=To%C3%B1oA3Tabacos'
     },
     {
         id: 94,
@@ -141,7 +141,7 @@ const products_plp = [
         ],
         discount: 40,
         history: 'El sombrero Wayuu es una obra maestra de la artesanía indígena. Cada sombrero es tejido con paciencia y dedicación, reflejando la herencia cultural de los Wayuu. Utilizado como protección contra el sol, también representa el estatus y el conocimiento de quien lo lleva. Estos sombreros son una fusión entre funcionalidad y simbolismo, confeccionados con materiales naturales recolectados en la región.',
-        demoVideo: 'https://www.youtube.com/watch?v=example8'
+        demoVideo: 'https://www.youtube.com/watch?v=vWVS8iM-8wU&ab_channel=SaidaLuisaGuerraVel%C3%A1squez'
     },
     {
         id: 95,
@@ -159,7 +159,7 @@ const products_plp = [
         ],
         discount: 45,
         history: 'El chinchorro Wayuu es una pieza tradicional utilizada para descansar. Su diseño colorido y tejido resistente lo convierten en un símbolo de comodidad y cultura. En la cultura Wayuu, el chinchorro es más que una hamaca: es un espacio sagrado de sueño, conversación y conexión familiar. Su elaboración puede durar meses y requiere el conocimiento ancestral que solo poseen los miembros más experimentados de la comunidad.',
-        demoVideo: 'https://www.youtube.com/watch?v=example9'
+        demoVideo: 'https://www.youtube.com/watch?v=xBgNXl9JyQA&ab_channel=viajesytravesiascolombia'
     },
     {
         id: 96,
@@ -177,7 +177,7 @@ const products_plp = [
         ],
         discount: 34,
         history: 'La hamaca tradicional colombiana es un símbolo de relajación y cultura. Tejida a mano, es perfecta para disfrutar de momentos de descanso. Utilizada en regiones cálidas, ha sido parte esencial de la vida cotidiana campesina, brindando sombra y frescura. Además, representa un momento de pausa en el ritmo de la vida rural y se ha convertido en un emblema del descanso tropical latinoamericano.',
-        demoVideo: 'https://www.youtube.com/watch?v=example10'
+        demoVideo: 'https://www.youtube.com/watch?v=havf7S0G4Ok&ab_channel=NoticiasCaracol'
     },
     {
         id: 97,
@@ -195,7 +195,7 @@ const products_plp = [
         ],
         discount: 30,
         history: 'La mochila Arhuaca es una pieza emblemática de los indígenas Arhuacos de la Sierra Nevada de Santa Marta. Hecha con lana virgen y tejida por mujeres de la comunidad, cada símbolo en la mochila tiene un significado espiritual y cosmológico. Representa la visión del mundo Arhuaco, donde todo está conectado: el hombre, la naturaleza y el universo. Más que un accesorio, es una declaración de identidad y resistencia cultural.',
-        demoVideo: 'https://w222ww.youtube.com/watch?v=example11'
+        demoVideo: 'https://www.youtube.com/shorts/UNZApjdvYYg'
     },
     {
     id: 98,
@@ -213,7 +213,7 @@ const products_plp = [
     ],
     discount: 7,
     history: 'El sombrero Aguadeño es una pieza artesanal originaria de Aguadas, Colombia, reconocida por su exquisita elaboración en palma de iraca, una fibra vegetal resistente y flexible. Esta prenda tradicional refleja siglos de tradición artesanal transmitida de generación en generación por comunidades indígenas y campesinas. Cada sombrero es tejido a mano con gran dedicación, lo que garantiza su durabilidad y la calidad en cada detalle. Más allá de ser un accesorio funcional para proteger del sol, el sombrero Aguadeño simboliza la identidad cultural y el patrimonio artesanal de la región. Su diseño único y distintivo lo convierte en un objeto de apreciación tanto local como internacional, siendo utilizado en festividades, eventos culturales y como símbolo de orgullo regional. La producción de estos sombreros también contribuye a la economía local, apoyando a artesanos que mantienen viva esta tradición milenaria.',
-    demoVideo: 'https://www.youtube.com/watch?v=example12'
+    demoVideo: 'https://www.youtube.com/watch?v=_Pdm9IRcEFI&ab_channel=ExperienciasEquinas'
 }
 ];
 
